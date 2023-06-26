@@ -1,0 +1,21 @@
+{
+  "name": "piss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bonfida/spl-name-service": "^0.2.10",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.76.0",
+    "bs58": "^5.0.0",
+    "commander": "^10.0.1",
+    "dotenv": "^16.1.1",
+    "env-cross": "^0.0.1",
+    "envfile": "^6.18.0"
+  }
+}
